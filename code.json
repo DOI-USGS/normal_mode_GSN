@@ -1,0 +1,46 @@
+[
+  {
+    "name": "normal-mode-GSN",
+    "organization": "U.S. Geological Survey",
+    "description": "Improved Resolution across the Global Seismographic Network: A new era in low-frequency seismology",
+    "version": "v1.0.0",
+    "status": "Production",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://code.usgs.gov/asl/papers/ringler/normal_mode_GSN/-/raw/master/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://code.usgs.gov/asl/papers/ringler/normal_mode_GSN",
+    "downloadURL": "https://code.usgs.gov/asl/papers/ringler/normal_mode_GSN/-/archive/master/normal_mode_GSN-master.zip",
+    "disclaimerURL": "https://code.usgs.gov/asl/papers/ringler/normal_mode_GSN/-/raw/master/DISCLAIMER.md",
+    "repositoryURL": "https://code.usgs.gov/asl/papers/ringler/normal_mode_GSN.git",
+    "vcs": "git",
+
+    "laborHours": 0,
+
+    "tags": [
+      "normal modes",
+      "instrumentation",
+      "seismology"
+    ],
+
+    "languages": [
+      "Python"
+    ],
+
+    "contact": {
+      "name": "Adam Ringler",
+      "email": "aringler@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2022-03-18"
+    }
+  }
+]
